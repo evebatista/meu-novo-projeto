@@ -32,15 +32,35 @@
 
   # 📁 Acesso ao projeto
 
-  <p> acesso ao projeto
+  <p> acesso ao projeto</p>
+  https://github.com/evebatista/java/tree/main/src/main/kotlin
+
+  ![cmd](https://github.com/evebatista/meu-novo-projeto/assets/141936827/4b3701b2-a7f1-4b65-b8f2-4ccbbdf48855)
+
  
 
 # 🛠️ Abrir e rodar o projeto
 
-**Apresente as instruções necessárias para abrir e executar o projeto**
+<p> Ter acesso ao código aperte no link acima.</p>
+
+# Técnicas e tecnologias utilizadas
+
+* Java
+* Intellij idea
+
+# Autora
+![WhatsApp Image 2023-04-16 at 22 33 01](https://github.com/evebatista/meu-novo-projeto/assets/141936827/28ddd3da-fc65-4c45-a857-2884cb63e73c)
+
+ Evelin dos Santos Batista
+ 
+ https://github.com/evebatista
 
 
-fun main(args: Array<String>) {
-    println("what is your name?")
-    val name = readln()
-    println("hello, $name")
+
+
+
+
+
+
+
+
